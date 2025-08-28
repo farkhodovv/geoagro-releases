@@ -1,7 +1,7 @@
 {
-  "version": "2.2.1",
-  "build_number": 2201,
+  "version": "2.2.2",
+  "build_number": 2202,
   "download_url": "https://github.com/farkhodovv/geoagro-releases/releases/latest/download/geoAgro.apk",
-  "changelog": "Automatic build for 2.2.1",
+  "changelog": "Automatic build for 2.2.2",
   "force_update": false
 }
